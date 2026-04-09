@@ -15,5 +15,5 @@ VBAやPythonを使った業務改善に取り組んでいます。
 - AIを使った資料作成・コード補助・業務支援
 
 ## 公開中のサンプル
-- excel-import-data-filter-vba  
+- [excel-import-data-filter-vba](https://github.com/choisof-hub/excel-import-data-filter-vba)  
   外部からダウンロードしたExcelデータを、システム取り込み前に整形するVBAサンプル
