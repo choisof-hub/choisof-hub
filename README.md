@@ -18,5 +18,5 @@ VBAやPythonを使った業務改善に取り組んでいます。
 - [excel-import-data-filter-vba](https://github.com/choisof-hub/excel-import-data-filter-vba)  
   外部からダウンロードしたExcelデータを、システム取り込み前に整形するVBAサンプル
 
-- [excel-import-data-filter-vba](https://github.com/choisof-hub/excel-import-data-filter-vba)  
-  外部からダウンロードしたExcelデータを、システム取り込み前に整形するVBAサンプル
+- [Python-sumsk2-sample-public](https://github.com/choisof-hub/sumsk2-sample-public)  
+  物流現場の『歩き回る時間』を半減させるトータルピッキング支援ツール。
