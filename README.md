@@ -20,3 +20,6 @@ VBAやPythonを使った業務改善に取り組んでいます。
 
 - [Python-sumsk2-sample-public](https://github.com/choisof-hub/sumsk2-sample-public)  
   物流現場の『歩き回る時間』を半減させるトータルピッキング支援ツール。
+
+- [request-workflow-management-app ](https://github.com/choisof-hub/request-workflow-management-app/tree/main)  
+  ITの知識と経験で、本社と倉庫間の連絡業務のミスを削減し、進捗の見える化を実現。
