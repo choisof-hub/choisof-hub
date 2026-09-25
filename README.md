@@ -25,4 +25,4 @@ VBAやPythonを使った業務改善に取り組んでいます。
   ITの知識と経験で、本社と倉庫間の連絡業務のミスを削減し、進捗の見える化を実現。
 
 - [warehouse-relocation-ai-project ](https://github.com/choisof-hub/warehouse-relocation-ai-project)  
-  ITの知識と経験で、本社と倉庫間の連絡業務のミスを削減し、進捗の見える化を実現。
+  AIを活用した倉庫移転プロジェクト：棚ロケーション変換とマスターデータ更新の自動化
