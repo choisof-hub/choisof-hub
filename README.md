@@ -26,3 +26,6 @@ VBAやPythonを使った業務改善に取り組んでいます。
 
 - [warehouse-relocation-ai-project ](https://github.com/choisof-hub/warehouse-relocation-ai-project)  
   AIを活用した倉庫移転プロジェクト：棚ロケーション変換とマスターデータ更新の自動化
+
+- [tanaban-master-update-rpa](https://github.com/choisof-hub/tanaban-master-update-rpa)  
+  倉庫移転に伴う棚番マスタ約12,000件の一括更新RPAツールをAIを活用して作成
